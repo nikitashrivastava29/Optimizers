@@ -6,3 +6,7 @@ Following are the papers that have been included in the repository till now:
 2. SLOWMO: Improving Communication-Efficient Distributed SGD with Slow Momentum
 4. Taming Momentum in a Distributed Asynchronous Environment
 5. Distributed Momentum-based Frank-Wolfe Algorithm for Stochastic Optimization
+
+| Paper | Method | Paper | Source |
+| --- | --- |
+| Asynchrony begets Momentum, with an application to Deep Learning | DANA | https://arxiv.org/abs/1605.09774 | 
