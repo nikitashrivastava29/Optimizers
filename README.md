@@ -15,4 +15,4 @@ Following are the papers that have been included in the repository till now:
 | 3. | CADA: Communication-Adaptive Distributed Adam | CADA | https://arxiv.org/abs/2012.15469 | https://github.com/ChrisYZZ/CADA-master/blob/main/Python/MNIST%20code/main_CADA_MNIST.py | 
 | 4. | Taming Momentum in a Distributed Asynchronous Environment | DANA | https://arxiv.org/abs/1907.11612 | NaN |
 | 5. |  Quasi-Global Momentum: Accelerating Decentralized Deep Learning on Heterogeneous Data | Quasi-Global Momentum | https://arxiv.org/abs/2102.04761 | https://github.com/epfml/quasi-global-momentum/tree/master?tab=readme-ov-file | 
-
+| 6. |  On the Convergence Properties of a K-Step Averaging Stochastic Gradient Descent Algorithm for Nonconvex Optimization | K-step Averaging SGD | https://shorturl.at/CXAZU | NaN | 
