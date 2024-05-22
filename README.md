@@ -6,7 +6,7 @@ Following are the papers that have been included in the repository till now:
 2. SLOWMO: Improving Communication-Efficient Distributed SGD with Slow Momentum
 3. CADA: Communication-Adaptive Distributed Adam
 4. Taming Momentum in a Distributed Asynchronous Environment
-5. Stochastic Gradient Push for Distributed Deep Learning
+5. Quasi-Global Momentum: Accelerating Decentralized Deep Learning on Heterogeneous Data
 
 | S.No. | Paper | Method | Link | Source |
 | --- | --- | --- | --- | --- |
