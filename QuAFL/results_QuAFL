@@ -1,0 +1,345 @@
+--- Baseline ---
+Client 1 is added to the population as a slow client.
+There are 1 slow clients and 0 fast clients.
+Train: Step:     0 Val-Loss: 2.3050  Val-Acc: 0.10 Time:   0.00 Local Steps:     0
+Train: Step:     1 Val-Loss: 2.3046  Val-Acc: 0.10 Time:  39.74 Local Steps:     1
+Train: Step:     4 Val-Loss: 2.3032  Val-Acc: 0.10 Time:  51.69 Local Steps:     4
+Train: Step:     6 Val-Loss: 2.3021  Val-Acc: 0.11 Time:  76.67 Local Steps:     6
+Train: Step:     7 Val-Loss: 2.3015  Val-Acc: 0.10 Time:  90.21 Local Steps:     7
+Train: Step:    32 Val-Loss: 2.2772  Val-Acc: 0.15 Time: 292.11 Local Steps:    32
+Train: Step:    68 Val-Loss: 2.1351  Val-Acc: 0.50 Time: 492.99 Local Steps:    68
+Train: Step:    82 Val-Loss: 2.0414  Val-Acc: 0.57 Time: 696.71 Local Steps:    82
+Train: Step:   105 Val-Loss: 1.8789  Val-Acc: 0.63 Time: 901.51 Local Steps:   105
+Train: Step:   133 Val-Loss: 1.7129  Val-Acc: 0.66 Time: 1149.01 Local Steps:   133
+Train: Step:   157 Val-Loss: 1.6033  Val-Acc: 0.68 Time: 1366.51 Local Steps:   157
+Train: Step:   187 Val-Loss: 1.4942  Val-Acc: 0.69 Time: 1572.94 Local Steps:   187
+Train: Step:   210 Val-Loss: 1.4205  Val-Acc: 0.70 Time: 1784.86 Local Steps:   210
+Train: Step:   239 Val-Loss: 1.3378  Val-Acc: 0.71 Time: 1993.40 Local Steps:   239
+Train: Step:   257 Val-Loss: 1.2918  Val-Acc: 0.71 Time: 2199.85 Local Steps:   257
+Train: Step:   288 Val-Loss: 1.2213  Val-Acc: 0.73 Time: 2405.28 Local Steps:   288
+Train: Step:   315 Val-Loss: 1.1659  Val-Acc: 0.73 Time: 2610.35 Local Steps:   315
+Train: Step:   338 Val-Loss: 1.1251  Val-Acc: 0.73 Time: 2814.35 Local Steps:   338
+Train: Step:   362 Val-Loss: 1.0860  Val-Acc: 0.73 Time: 3018.60 Local Steps:   362
+Train: Step:   384 Val-Loss: 1.0529  Val-Acc: 0.74 Time: 3225.98 Local Steps:   384
+Train: Step:   409 Val-Loss: 1.0197  Val-Acc: 0.74 Time: 3428.21 Local Steps:   409
+Train: Step:   431 Val-Loss: 0.9928  Val-Acc: 0.74 Time: 3634.99 Local Steps:   431
+Train: Step:   465 Val-Loss: 0.9568  Val-Acc: 0.74 Time: 3843.16 Local Steps:   465
+Train: Step:   492 Val-Loss: 0.9309  Val-Acc: 0.74 Time: 4048.01 Local Steps:   492
+Train: Step:   525 Val-Loss: 0.9027  Val-Acc: 0.74 Time: 4251.06 Local Steps:   525
+Train: Step:   546 Val-Loss: 0.8872  Val-Acc: 0.74 Time: 4451.18 Local Steps:   546
+Train: Step:   567 Val-Loss: 0.8720  Val-Acc: 0.75 Time: 4653.91 Local Steps:   567
+Train: Step:   614 Val-Loss: 0.8421  Val-Acc: 0.75 Time: 4854.15 Local Steps:   614
+Train: Step:   637 Val-Loss: 0.8299  Val-Acc: 0.75 Time: 5070.01 Local Steps:   637
+Train: Step:   674 Val-Loss: 0.8099  Val-Acc: 0.75 Time: 5277.31 Local Steps:   674
+Train: Step:   707 Val-Loss: 0.7950  Val-Acc: 0.75 Time: 5483.08 Local Steps:   707
+Train: Step:   728 Val-Loss: 0.7858  Val-Acc: 0.75 Time: 5690.24 Local Steps:   728
+Train: Step:   755 Val-Loss: 0.7751  Val-Acc: 0.75 Time: 5891.51 Local Steps:   755
+Train: Step:   786 Val-Loss: 0.7645  Val-Acc: 0.75 Time: 6096.35 Local Steps:   786
+Train: Step:   808 Val-Loss: 0.7566  Val-Acc: 0.76 Time: 6300.36 Local Steps:   808
+Train: Step:   842 Val-Loss: 0.7452  Val-Acc: 0.76 Time: 6508.03 Local Steps:   842
+Train: Step:   870 Val-Loss: 0.7368  Val-Acc: 0.76 Time: 6722.27 Local Steps:   870
+Train: Step:   896 Val-Loss: 0.7293  Val-Acc: 0.76 Time: 6929.61 Local Steps:   896
+Train: Step:   921 Val-Loss: 0.7240  Val-Acc: 0.76 Time: 7133.87 Local Steps:   921
+Train: Step:   945 Val-Loss: 0.7170  Val-Acc: 0.76 Time: 7336.83 Local Steps:   945
+Train: Step:   973 Val-Loss: 0.7098  Val-Acc: 0.76 Time: 7541.14 Local Steps:   973
+Train: Step:  1003 Val-Loss: 0.7033  Val-Acc: 0.76 Time: 7745.43 Local Steps:  1003
+Train: Step:  1034 Val-Loss: 0.6965  Val-Acc: 0.76 Time: 7959.89 Local Steps:  1034
+Train: Step:  1063 Val-Loss: 0.6908  Val-Acc: 0.77 Time: 8162.35 Local Steps:  1063
+Train: Step:  1086 Val-Loss: 0.6869  Val-Acc: 0.77 Time: 8386.97 Local Steps:  1086
+Train: Step:  1109 Val-Loss: 0.6822  Val-Acc: 0.77 Time: 8588.74 Local Steps:  1109
+Train: Step:  1130 Val-Loss: 0.6780  Val-Acc: 0.77 Time: 8792.37 Local Steps:  1130
+Train: Step:  1157 Val-Loss: 0.6737  Val-Acc: 0.77 Time: 8992.61 Local Steps:  1157
+Train: Step:  1191 Val-Loss: 0.6682  Val-Acc: 0.77 Time: 9192.88 Local Steps:  1191
+Train: Step:  1214 Val-Loss: 0.6644  Val-Acc: 0.77 Time: 9398.94 Local Steps:  1214
+Train: Step:  1250 Val-Loss: 0.6589  Val-Acc: 0.77 Time: 9606.19 Local Steps:  1250
+Train: Step:  1282 Val-Loss: 0.6540  Val-Acc: 0.77 Time: 9808.30 Local Steps:  1282
+Train: Step:  1304 Val-Loss: 0.6509  Val-Acc: 0.77 Time: 10005.26 Local Steps:  1304
+Finished in 31.713831424713135
+--- Fed-Avg (20,5,5) sit: 10 ---
+Client 1 is added to the population as a slow client.
+Client 2 is added to the population as a slow client.
+Client 3 is added to the population as a slow client.
+Client 4 is added to the population as a slow client.
+Client 5 is added to the population as a slow client.
+Client 6 is added to the population as a slow client.
+Client 7 is added to the population as a slow client.
+Client 8 is added to the population as a slow client.
+Client 9 is added to the population as a slow client.
+Client 10 is added to the population as a slow client.
+Client 11 is added to the population as a fast client.
+Client 12 is added to the population as a fast client.
+Client 13 is added to the population as a fast client.
+Client 14 is added to the population as a fast client.
+Client 15 is added to the population as a fast client.
+Client 16 is added to the population as a fast client.
+Client 17 is added to the population as a fast client.
+Client 18 is added to the population as a fast client.
+Client 19 is added to the population as a fast client.
+Client 20 is added to the population as a fast client.
+There are 10 slow clients and 10 fast clients.
+Train: Step:     0 Val-Loss: 2.3050  Val-Acc: 0.10 Time:   0.00 Local Steps:     0
+Train: Step:     1 Val-Loss: 2.3029  Val-Acc: 0.10 Time:  95.82 Local Steps:    25
+Train: Step:     5 Val-Loss: 2.2936  Val-Acc: 0.10 Time: 342.32 Local Steps:   125
+Train: Step:    11 Val-Loss: 2.2291  Val-Acc: 0.19 Time: 620.44 Local Steps:   275
+Train: Step:    15 Val-Loss: 2.1680  Val-Acc: 0.29 Time: 878.53 Local Steps:   375
+Train: Step:    18 Val-Loss: 2.1258  Val-Acc: 0.36 Time: 1089.30 Local Steps:   450
+Train: Step:    22 Val-Loss: 2.0776  Val-Acc: 0.46 Time: 1305.77 Local Steps:   550
+Train: Step:    25 Val-Loss: 2.0434  Val-Acc: 0.53 Time: 1519.29 Local Steps:   625
+Train: Step:    29 Val-Loss: 1.9994  Val-Acc: 0.59 Time: 1736.79 Local Steps:   725
+Train: Step:    33 Val-Loss: 1.9566  Val-Acc: 0.63 Time: 1938.35 Local Steps:   825
+Train: Step:    37 Val-Loss: 1.9148  Val-Acc: 0.65 Time: 2204.30 Local Steps:   925
+Train: Step:    41 Val-Loss: 1.8738  Val-Acc: 0.67 Time: 2433.97 Local Steps:  1025
+Train: Step:    45 Val-Loss: 1.8335  Val-Acc: 0.69 Time: 2688.67 Local Steps:  1125
+Train: Step:    49 Val-Loss: 1.7944  Val-Acc: 0.70 Time: 2963.09 Local Steps:  1225
+Train: Step:    54 Val-Loss: 1.7479  Val-Acc: 0.71 Time: 3258.33 Local Steps:  1350
+Train: Step:    58 Val-Loss: 1.7106  Val-Acc: 0.72 Time: 3540.51 Local Steps:  1450
+Train: Step:    62 Val-Loss: 1.6746  Val-Acc: 0.72 Time: 3758.20 Local Steps:  1550
+Train: Step:    65 Val-Loss: 1.6482  Val-Acc: 0.72 Time: 3970.13 Local Steps:  1625
+Train: Step:    69 Val-Loss: 1.6137  Val-Acc: 0.73 Time: 4175.55 Local Steps:  1725
+Train: Step:    73 Val-Loss: 1.5799  Val-Acc: 0.73 Time: 4408.78 Local Steps:  1825
+Train: Step:    78 Val-Loss: 1.5396  Val-Acc: 0.74 Time: 4668.82 Local Steps:  1950
+Train: Step:    83 Val-Loss: 1.5009  Val-Acc: 0.74 Time: 4929.14 Local Steps:  2075
+Train: Step:    86 Val-Loss: 1.4790  Val-Acc: 0.74 Time: 5148.93 Local Steps:  2150
+Train: Step:    91 Val-Loss: 1.4396  Val-Acc: 0.74 Time: 5406.64 Local Steps:  2275
+Train: Step:    95 Val-Loss: 1.4114  Val-Acc: 0.74 Time: 5637.94 Local Steps:  2375
+Train: Step:    98 Val-Loss: 1.3910  Val-Acc: 0.74 Time: 5856.14 Local Steps:  2450
+Train: Step:   102 Val-Loss: 1.3638  Val-Acc: 0.74 Time: 6074.29 Local Steps:  2550
+Train: Step:   107 Val-Loss: 1.3323  Val-Acc: 0.75 Time: 6319.38 Local Steps:  2675
+Train: Step:   111 Val-Loss: 1.3080  Val-Acc: 0.75 Time: 6533.94 Local Steps:  2775
+Train: Step:   115 Val-Loss: 1.2855  Val-Acc: 0.75 Time: 6774.36 Local Steps:  2875
+Train: Step:   119 Val-Loss: 1.2618  Val-Acc: 0.75 Time: 6989.95 Local Steps:  2975
+Train: Step:   122 Val-Loss: 1.2447  Val-Acc: 0.75 Time: 7211.42 Local Steps:  3050
+Train: Step:   125 Val-Loss: 1.2287  Val-Acc: 0.75 Time: 7411.46 Local Steps:  3125
+Train: Step:   129 Val-Loss: 1.2048  Val-Acc: 0.75 Time: 7646.88 Local Steps:  3225
+Train: Step:   133 Val-Loss: 1.1846  Val-Acc: 0.75 Time: 7873.68 Local Steps:  3325
+Train: Step:   137 Val-Loss: 1.1675  Val-Acc: 0.75 Time: 8129.40 Local Steps:  3425
+Train: Step:   140 Val-Loss: 1.1539  Val-Acc: 0.76 Time: 8370.39 Local Steps:  3500
+Train: Step:   144 Val-Loss: 1.1336  Val-Acc: 0.76 Time: 8589.68 Local Steps:  3600
+Train: Step:   148 Val-Loss: 1.1159  Val-Acc: 0.76 Time: 8804.95 Local Steps:  3700
+Train: Step:   151 Val-Loss: 1.1031  Val-Acc: 0.76 Time: 9014.27 Local Steps:  3775
+Train: Step:   154 Val-Loss: 1.0906  Val-Acc: 0.76 Time: 9242.63 Local Steps:  3850
+Train: Step:   158 Val-Loss: 1.0747  Val-Acc: 0.76 Time: 9523.43 Local Steps:  3950
+Train: Step:   162 Val-Loss: 1.0598  Val-Acc: 0.76 Time: 9743.45 Local Steps:  4050
+Train: Step:   166 Val-Loss: 1.0463  Val-Acc: 0.76 Time: 9992.48 Local Steps:  4150
+Train: Step:   167 Val-Loss: 1.0415  Val-Acc: 0.76 Time: 10060.79 Local Steps:  4175
+Finished in 96.821697473526
+--- QuAFL   (20,5,5,lattice) swt: 0 sit: 4.375 ---
+Client 1 is added to the population as a slow client.
+Client 2 is added to the population as a slow client.
+Client 3 is added to the population as a slow client.
+Client 4 is added to the population as a slow client.
+Client 5 is added to the population as a slow client.
+Client 6 is added to the population as a slow client.
+Client 7 is added to the population as a slow client.
+Client 8 is added to the population as a slow client.
+Client 9 is added to the population as a slow client.
+Client 10 is added to the population as a slow client.
+Client 11 is added to the population as a fast client.
+Client 12 is added to the population as a fast client.
+Client 13 is added to the population as a fast client.
+Client 14 is added to the population as a fast client.
+Client 15 is added to the population as a fast client.
+Client 16 is added to the population as a fast client.
+Client 17 is added to the population as a fast client.
+Client 18 is added to the population as a fast client.
+Client 19 is added to the population as a fast client.
+Client 20 is added to the population as a fast client.
+There are 10 slow clients and 10 fast clients.
+True True
+Train: Step:     0 Val-Loss: 2.3050  Val-Acc: 0.10 Time:   0.00 Local Steps:     0
+Train: Step:     3 Val-Loss: 2.2486  Val-Acc: 0.16 Time:  13.12 Local Steps:    10
+Real time: 1.2082760334014893
+Train: Step:     6 Val-Loss: 2.1052  Val-Acc: 0.59 Time:  26.25 Local Steps:    41
+Real time: 1.2813751697540283
+Train: Step:     9 Val-Loss: 2.0533  Val-Acc: 0.57 Time:  39.38 Local Steps:    72
+Real time: 0.8370974063873291
+Train: Step:    12 Val-Loss: 1.9830  Val-Acc: 0.58 Time:  52.50 Local Steps:   110
+Real time: 1.323676347732544
+Train: Step:    15 Val-Loss: 1.8917  Val-Acc: 0.64 Time:  65.62 Local Steps:   148
+Real time: 1.087890625
+Train: Step:    18 Val-Loss: 1.7763  Val-Acc: 0.68 Time:  78.75 Local Steps:   188
+Real time: 0.9047844409942627
+Train: Step:    21 Val-Loss: 1.7084  Val-Acc: 0.63 Time:  91.88 Local Steps:   237
+Real time: 1.317650318145752
+Train: Step:    67 Val-Loss: 0.6604  Val-Acc: 0.78 Time: 293.12 Local Steps:   799
+Real time: 12.382775783538818
+Train: Step:   113 Val-Loss: 0.4503  Val-Acc: 0.84 Time: 494.38 Local Steps:  1325
+Real time: 11.10630488395691
+Train: Step:   159 Val-Loss: 0.3685  Val-Acc: 0.86 Time: 695.62 Local Steps:  1804
+Real time: 10.524630546569824
+Train: Step:   205 Val-Loss: 0.3115  Val-Acc: 0.89 Time: 896.88 Local Steps:  2359
+Real time: 11.982365846633911
+Train: Step:   251 Val-Loss: 0.3125  Val-Acc: 0.89 Time: 1098.12 Local Steps:  2916
+Real time: 12.024377584457397
+Train: Step:   297 Val-Loss: 0.3006  Val-Acc: 0.90 Time: 1299.38 Local Steps:  3488
+Real time: 12.649579524993896
+Train: Step:   343 Val-Loss: 0.3011  Val-Acc: 0.90 Time: 1500.62 Local Steps:  4053
+Real time: 12.265057563781738
+Train: Step:   389 Val-Loss: 0.3051  Val-Acc: 0.90 Time: 1701.88 Local Steps:  4583
+Real time: 11.68350887298584
+Train: Step:   435 Val-Loss: 0.3060  Val-Acc: 0.90 Time: 1903.12 Local Steps:  5136
+Real time: 11.737845182418823
+Train: Step:   481 Val-Loss: 0.3078  Val-Acc: 0.90 Time: 2104.38 Local Steps:  5668
+Real time: 11.274267673492432
+Train: Step:   527 Val-Loss: 0.3018  Val-Acc: 0.90 Time: 2305.62 Local Steps:  6213
+Real time: 11.98571515083313
+Train: Step:   573 Val-Loss: 0.2999  Val-Acc: 0.90 Time: 2506.88 Local Steps:  6811
+Real time: 12.6453115940094
+Train: Step:   619 Val-Loss: 0.3019  Val-Acc: 0.91 Time: 2708.12 Local Steps:  7447
+Real time: 13.500146627426147
+Train: Step:   665 Val-Loss: 0.3334  Val-Acc: 0.90 Time: 2909.38 Local Steps:  7946
+Real time: 11.354297399520874
+Train: Step:   711 Val-Loss: 0.3244  Val-Acc: 0.90 Time: 3110.62 Local Steps:  8558
+Real time: 12.953039407730103
+Train: Step:   757 Val-Loss: 0.3204  Val-Acc: 0.90 Time: 3311.88 Local Steps:  9123
+Real time: 11.999754428863525
+Train: Step:   803 Val-Loss: 0.3250  Val-Acc: 0.91 Time: 3513.12 Local Steps:  9650
+Real time: 11.290727138519287
+Train: Step:   849 Val-Loss: 0.3540  Val-Acc: 0.90 Time: 3714.38 Local Steps: 10234
+Real time: 12.802225828170776
+Train: Step:   895 Val-Loss: 0.3264  Val-Acc: 0.91 Time: 3915.62 Local Steps: 10832
+Real time: 12.66997504234314
+Train: Step:   941 Val-Loss: 0.3193  Val-Acc: 0.91 Time: 4116.88 Local Steps: 11335
+Real time: 11.065197229385376
+Train: Step:   987 Val-Loss: 0.3271  Val-Acc: 0.91 Time: 4318.12 Local Steps: 11925
+Real time: 12.509108781814575
+Train: Step:  1033 Val-Loss: 0.3250  Val-Acc: 0.91 Time: 4519.38 Local Steps: 12451
+Real time: 11.270045757293701
+Train: Step:  1079 Val-Loss: 0.3404  Val-Acc: 0.91 Time: 4720.62 Local Steps: 13119
+Real time: 14.344057559967041
+Train: Step:  1125 Val-Loss: 0.3494  Val-Acc: 0.90 Time: 4921.88 Local Steps: 13581
+Real time: 10.06624174118042
+Train: Step:  1171 Val-Loss: 0.3601  Val-Acc: 0.90 Time: 5123.12 Local Steps: 14081
+Real time: 11.240303993225098
+Train: Step:  1217 Val-Loss: 0.3483  Val-Acc: 0.90 Time: 5324.38 Local Steps: 14637
+Real time: 11.544541597366333
+Train: Step:  1263 Val-Loss: 0.3706  Val-Acc: 0.90 Time: 5525.62 Local Steps: 15233
+Real time: 12.913987874984741
+Train: Step:  1309 Val-Loss: 0.3621  Val-Acc: 0.91 Time: 5726.88 Local Steps: 15754
+Real time: 11.050973415374756
+Train: Step:  1355 Val-Loss: 0.3674  Val-Acc: 0.90 Time: 5928.12 Local Steps: 16273
+Real time: 11.417619705200195
+Train: Step:  1401 Val-Loss: 0.3563  Val-Acc: 0.91 Time: 6129.38 Local Steps: 16817
+Real time: 12.247148752212524
+Train: Step:  1447 Val-Loss: 0.3539  Val-Acc: 0.91 Time: 6330.62 Local Steps: 17324
+Real time: 10.867797374725342
+Train: Step:  1493 Val-Loss: 0.3528  Val-Acc: 0.91 Time: 6531.88 Local Steps: 17893
+Real time: 12.272377490997314
+Train: Step:  1539 Val-Loss: 0.3683  Val-Acc: 0.91 Time: 6733.12 Local Steps: 18389
+Real time: 10.956326484680176
+Train: Step:  1585 Val-Loss: 0.3604  Val-Acc: 0.91 Time: 6934.38 Local Steps: 18877
+Real time: 10.48180079460144
+Train: Step:  1631 Val-Loss: 0.3757  Val-Acc: 0.90 Time: 7135.62 Local Steps: 19424
+Real time: 12.324326276779175
+Train: Step:  1677 Val-Loss: 0.3692  Val-Acc: 0.91 Time: 7336.88 Local Steps: 19935
+Real time: 10.727967500686646
+Train: Step:  1723 Val-Loss: 0.4264  Val-Acc: 0.90 Time: 7538.12 Local Steps: 20446
+Real time: 11.413075923919678
+Train: Step:  1769 Val-Loss: 0.3585  Val-Acc: 0.91 Time: 7739.38 Local Steps: 21040
+Real time: 12.864449501037598
+Train: Step:  1815 Val-Loss: 0.3680  Val-Acc: 0.91 Time: 7940.62 Local Steps: 21664
+Real time: 13.481557607650757
+Train: Step:  1861 Val-Loss: 0.3706  Val-Acc: 0.91 Time: 8141.88 Local Steps: 22181
+Real time: 10.97764539718628
+Train: Step:  1907 Val-Loss: 0.3749  Val-Acc: 0.91 Time: 8343.12 Local Steps: 22760
+Real time: 12.669064998626709
+Train: Step:  1953 Val-Loss: 0.3583  Val-Acc: 0.91 Time: 8544.38 Local Steps: 23316
+Real time: 12.062745094299316
+Train: Step:  1999 Val-Loss: 0.3745  Val-Acc: 0.91 Time: 8745.62 Local Steps: 23866
+Real time: 11.918440818786621
+Train: Step:  2045 Val-Loss: 0.3972  Val-Acc: 0.91 Time: 8946.88 Local Steps: 24493
+Real time: 13.331477642059326
+Train: Step:  2091 Val-Loss: 0.3813  Val-Acc: 0.91 Time: 9148.12 Local Steps: 24985
+Real time: 11.008682489395142
+Train: Step:  2137 Val-Loss: 0.3911  Val-Acc: 0.90 Time: 9349.38 Local Steps: 25539
+Real time: 11.675100088119507
+Train: Step:  2183 Val-Loss: 0.3836  Val-Acc: 0.91 Time: 9550.62 Local Steps: 26122
+Real time: 12.813213586807251
+Train: Step:  2229 Val-Loss: 0.3885  Val-Acc: 0.91 Time: 9751.88 Local Steps: 26691
+Real time: 12.406069278717041
+Train: Step:  2275 Val-Loss: 0.3729  Val-Acc: 0.91 Time: 9953.12 Local Steps: 27276
+Real time: 12.086060047149658
+Train: Step:  2286 Val-Loss: 0.3800  Val-Acc: 0.91 Time: 10001.25 Local Steps: 27374
+Finished in 596.0715482234955
+--- FedBuff (20,5,5) sit: 4.375 ---
+Client 1 is added to the population as a slow client.
+Client 2 is added to the population as a slow client.
+Client 3 is added to the population as a slow client.
+Client 4 is added to the population as a slow client.
+Client 5 is added to the population as a slow client.
+Client 6 is added to the population as a slow client.
+Client 7 is added to the population as a slow client.
+Client 8 is added to the population as a slow client.
+Client 9 is added to the population as a slow client.
+Client 10 is added to the population as a slow client.
+Client 11 is added to the population as a fast client.
+Client 12 is added to the population as a fast client.
+Client 13 is added to the population as a fast client.
+Client 14 is added to the population as a fast client.
+Client 15 is added to the population as a fast client.
+Client 16 is added to the population as a fast client.
+Client 17 is added to the population as a fast client.
+Client 18 is added to the population as a fast client.
+Client 19 is added to the population as a fast client.
+Client 20 is added to the population as a fast client.
+There are 10 slow clients and 10 fast clients.
+Train: Step:     0 Val-Loss: 2.3050  Val-Acc: 0.10 Time:   0.00 Local Steps:     0
+Train: Step:     1 Val-Loss: 2.3033  Val-Acc: 0.08 Time:  13.24 Local Steps:   100
+Train: Step:     4 Val-Loss: 2.3018  Val-Acc: 0.07 Time:  27.35 Local Steps:   175
+Train: Step:     6 Val-Loss: 2.3009  Val-Acc: 0.07 Time:  39.19 Local Steps:   225
+Train: Step:     9 Val-Loss: 2.2988  Val-Acc: 0.08 Time:  54.24 Local Steps:   300
+Train: Step:    12 Val-Loss: 2.2958  Val-Acc: 0.09 Time:  68.28 Local Steps:   375
+Train: Step:    15 Val-Loss: 2.2915  Val-Acc: 0.09 Time:  81.40 Local Steps:   450
+Train: Step:    17 Val-Loss: 2.2886  Val-Acc: 0.09 Time:  92.19 Local Steps:   500
+Train: Step:    58 Val-Loss: 2.0735  Val-Acc: 0.52 Time: 299.30 Local Steps:  1525
+Train: Step:   100 Val-Loss: 1.8478  Val-Acc: 0.66 Time: 499.77 Local Steps:  2575
+Train: Step:   141 Val-Loss: 1.6755  Val-Acc: 0.70 Time: 700.84 Local Steps:  3600
+Train: Step:   183 Val-Loss: 1.5213  Val-Acc: 0.72 Time: 902.78 Local Steps:  4650
+Train: Step:   225 Val-Loss: 1.3897  Val-Acc: 0.73 Time: 1105.42 Local Steps:  5700
+Train: Step:   267 Val-Loss: 1.2782  Val-Acc: 0.74 Time: 1309.42 Local Steps:  6750
+Train: Step:   310 Val-Loss: 1.1837  Val-Acc: 0.74 Time: 1513.03 Local Steps:  7825
+Train: Step:   352 Val-Loss: 1.1074  Val-Acc: 0.74 Time: 1716.18 Local Steps:  8875
+Train: Step:   393 Val-Loss: 1.0441  Val-Acc: 0.74 Time: 1918.79 Local Steps:  9900
+Train: Step:   435 Val-Loss: 0.9896  Val-Acc: 0.75 Time: 2123.00 Local Steps: 10950
+Train: Step:   477 Val-Loss: 0.9435  Val-Acc: 0.75 Time: 2327.42 Local Steps: 12000
+Train: Step:   519 Val-Loss: 0.9038  Val-Acc: 0.75 Time: 2530.92 Local Steps: 13050
+Train: Step:   562 Val-Loss: 0.8690  Val-Acc: 0.75 Time: 2734.65 Local Steps: 14125
+Train: Step:   603 Val-Loss: 0.8407  Val-Acc: 0.75 Time: 2935.77 Local Steps: 15150
+Train: Step:   645 Val-Loss: 0.8157  Val-Acc: 0.76 Time: 3138.45 Local Steps: 16200
+Train: Step:   687 Val-Loss: 0.7931  Val-Acc: 0.76 Time: 3340.38 Local Steps: 17250
+Train: Step:   730 Val-Loss: 0.7727  Val-Acc: 0.76 Time: 3544.82 Local Steps: 18325
+Train: Step:   771 Val-Loss: 0.7557  Val-Acc: 0.76 Time: 3744.94 Local Steps: 19350
+Train: Step:   811 Val-Loss: 0.7403  Val-Acc: 0.76 Time: 3948.16 Local Steps: 20350
+Train: Step:   853 Val-Loss: 0.7254  Val-Acc: 0.77 Time: 4151.74 Local Steps: 21400
+Train: Step:   896 Val-Loss: 0.7120  Val-Acc: 0.77 Time: 4354.64 Local Steps: 22475
+Train: Step:   937 Val-Loss: 0.7009  Val-Acc: 0.77 Time: 4559.35 Local Steps: 23500
+Train: Step:   979 Val-Loss: 0.6896  Val-Acc: 0.77 Time: 4763.27 Local Steps: 24550
+Train: Step:  1022 Val-Loss: 0.6797  Val-Acc: 0.77 Time: 4966.29 Local Steps: 25625
+Train: Step:  1064 Val-Loss: 0.6699  Val-Acc: 0.78 Time: 5166.99 Local Steps: 26675
+Train: Step:  1105 Val-Loss: 0.6615  Val-Acc: 0.78 Time: 5370.87 Local Steps: 27700
+Train: Step:  1147 Val-Loss: 0.6532  Val-Acc: 0.78 Time: 5571.79 Local Steps: 28750
+Train: Step:  1188 Val-Loss: 0.6457  Val-Acc: 0.78 Time: 5772.77 Local Steps: 29775
+Train: Step:  1231 Val-Loss: 0.6387  Val-Acc: 0.78 Time: 5975.11 Local Steps: 30850
+Train: Step:  1272 Val-Loss: 0.6320  Val-Acc: 0.78 Time: 6178.43 Local Steps: 31875
+Train: Step:  1313 Val-Loss: 0.6257  Val-Acc: 0.78 Time: 6383.57 Local Steps: 32900
+Train: Step:  1356 Val-Loss: 0.6195  Val-Acc: 0.79 Time: 6585.31 Local Steps: 33975
+Train: Step:  1398 Val-Loss: 0.6139  Val-Acc: 0.79 Time: 6788.32 Local Steps: 35025
+Train: Step:  1440 Val-Loss: 0.6086  Val-Acc: 0.79 Time: 6992.52 Local Steps: 36075
+Train: Step:  1483 Val-Loss: 0.6030  Val-Acc: 0.79 Time: 7192.94 Local Steps: 37150
+Train: Step:  1525 Val-Loss: 0.5980  Val-Acc: 0.79 Time: 7394.40 Local Steps: 38200
+Train: Step:  1567 Val-Loss: 0.5932  Val-Acc: 0.79 Time: 7594.56 Local Steps: 39250
+Train: Step:  1609 Val-Loss: 0.5885  Val-Acc: 0.79 Time: 7795.54 Local Steps: 40300
+Train: Step:  1651 Val-Loss: 0.5842  Val-Acc: 0.80 Time: 7999.74 Local Steps: 41350
+Train: Step:  1693 Val-Loss: 0.5799  Val-Acc: 0.80 Time: 8204.29 Local Steps: 42400
+Train: Step:  1736 Val-Loss: 0.5759  Val-Acc: 0.80 Time: 8406.55 Local Steps: 43475
+Train: Step:  1778 Val-Loss: 0.5720  Val-Acc: 0.80 Time: 8609.45 Local Steps: 44525
+Train: Step:  1820 Val-Loss: 0.5680  Val-Acc: 0.80 Time: 8813.22 Local Steps: 45575
+Train: Step:  1863 Val-Loss: 0.5642  Val-Acc: 0.80 Time: 9014.95 Local Steps: 46650
+Train: Step:  1905 Val-Loss: 0.5604  Val-Acc: 0.80 Time: 9215.58 Local Steps: 47700
+Train: Step:  1948 Val-Loss: 0.5570  Val-Acc: 0.81 Time: 9415.64 Local Steps: 48775
+Train: Step:  1988 Val-Loss: 0.5535  Val-Acc: 0.81 Time: 9618.03 Local Steps: 49775
+Train: Step:  2031 Val-Loss: 0.5502  Val-Acc: 0.81 Time: 9818.62 Local Steps: 50850
+Train: Step:  2067 Val-Loss: 0.5474  Val-Acc: 0.81 Time: 10001.00 Local Steps: 51750
+Participations: [225, 244, 226, 233, 228, 233, 232, 225, 237, 236, 778, 819, 802, 813, 780, 811, 806, 818, 788, 801].
+Finished in 1070.8854939937592
+Finished in 1827.6832315921783
