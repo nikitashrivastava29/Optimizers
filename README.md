@@ -7,6 +7,8 @@ Following are the papers that have been included in the repository till now:
 3. CADA: Communication-Adaptive Distributed Adam
 4. Taming Momentum in a Distributed Asynchronous Environment
 5. Quasi-Global Momentum: Accelerating Decentralized Deep Learning on Heterogeneous Data
+6. On the Convergence Properties of a K-Step Averaging Stochastic Gradient Descent Algorithm for Nonconvex Optimization
+7. Distributed Momentum-based Frank-Wolfe Algorithm for Stochastic Optimization
 
 | S.No. | Paper | Method | Link | Source |
 | --- | --- | --- | --- | --- |
