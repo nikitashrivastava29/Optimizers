@@ -1,0 +1,468 @@
+[GPU0] Epoch 0 | Batchsize: 32 | Steps: 938
+Epoch 0 | Train Accuracy: 95.72% | Test Accuracy: 96.04%
+Epoch 0 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 1 | Batchsize: 32 | Steps: 938
+Epoch 1 | Train Accuracy: 97.37% | Test Accuracy: 97.62%
+Epoch 1 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 2 | Batchsize: 32 | Steps: 938
+Epoch 2 | Train Accuracy: 97.61% | Test Accuracy: 96.96%
+Epoch 2 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 3 | Batchsize: 32 | Steps: 938
+Epoch 3 | Train Accuracy: 98.57% | Test Accuracy: 98.14%
+Epoch 3 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 4 | Batchsize: 32 | Steps: 938
+Epoch 4 | Train Accuracy: 98.37% | Test Accuracy: 98.12%
+Epoch 4 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 5 | Batchsize: 32 | Steps: 938
+Epoch 5 | Train Accuracy: 98.54% | Test Accuracy: 98.02%
+Epoch 5 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 6 | Batchsize: 32 | Steps: 938
+Epoch 6 | Train Accuracy: 98.86% | Test Accuracy: 98.70%
+Epoch 6 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 7 | Batchsize: 32 | Steps: 938
+Epoch 7 | Train Accuracy: 98.68% | Test Accuracy: 98.38%
+Epoch 7 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 8 | Batchsize: 32 | Steps: 938
+Epoch 8 | Train Accuracy: 98.98% | Test Accuracy: 98.68%
+Epoch 8 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 9 | Batchsize: 32 | Steps: 938
+Epoch 9 | Train Accuracy: 98.44% | Test Accuracy: 98.30%
+Epoch 9 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 10 | Batchsize: 32 | Steps: 938
+Epoch 10 | Train Accuracy: 99.00% | Test Accuracy: 98.70%
+Epoch 10 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 11 | Batchsize: 32 | Steps: 938
+Epoch 11 | Train Accuracy: 98.01% | Test Accuracy: 97.54%
+Epoch 11 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 12 | Batchsize: 32 | Steps: 938
+Epoch 12 | Train Accuracy: 98.61% | Test Accuracy: 98.28%
+Epoch 12 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 13 | Batchsize: 32 | Steps: 938
+Epoch 13 | Train Accuracy: 98.70% | Test Accuracy: 98.18%
+Epoch 13 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 14 | Batchsize: 32 | Steps: 938
+Epoch 14 | Train Accuracy: 98.78% | Test Accuracy: 98.20%
+Epoch 14 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 15 | Batchsize: 32 | Steps: 938
+Epoch 15 | Train Accuracy: 99.01% | Test Accuracy: 98.62%
+Epoch 15 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 16 | Batchsize: 32 | Steps: 938
+Epoch 16 | Train Accuracy: 99.13% | Test Accuracy: 98.28%
+Epoch 16 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 17 | Batchsize: 32 | Steps: 938
+Epoch 17 | Train Accuracy: 99.24% | Test Accuracy: 98.82%
+Epoch 17 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 18 | Batchsize: 32 | Steps: 938
+Epoch 18 | Train Accuracy: 98.62% | Test Accuracy: 97.60%
+Epoch 18 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 19 | Batchsize: 32 | Steps: 938
+Epoch 19 | Train Accuracy: 99.07% | Test Accuracy: 98.52%
+Epoch 19 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 20 | Batchsize: 32 | Steps: 938
+Epoch 20 | Train Accuracy: 99.08% | Test Accuracy: 98.58%
+Epoch 20 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 21 | Batchsize: 32 | Steps: 938
+Epoch 21 | Train Accuracy: 99.09% | Test Accuracy: 98.60%
+Epoch 21 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 22 | Batchsize: 32 | Steps: 938
+Epoch 22 | Train Accuracy: 98.64% | Test Accuracy: 98.36%
+Epoch 22 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 23 | Batchsize: 32 | Steps: 938
+Epoch 23 | Train Accuracy: 98.97% | Test Accuracy: 98.50%
+Epoch 23 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 24 | Batchsize: 32 | Steps: 938
+Epoch 24 | Train Accuracy: 98.47% | Test Accuracy: 97.78%
+Epoch 24 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 25 | Batchsize: 32 | Steps: 938
+Epoch 25 | Train Accuracy: 98.95% | Test Accuracy: 98.26%
+Epoch 25 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 26 | Batchsize: 32 | Steps: 938
+Epoch 26 | Train Accuracy: 98.96% | Test Accuracy: 98.36%
+Epoch 26 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 27 | Batchsize: 32 | Steps: 938
+Epoch 27 | Train Accuracy: 98.88% | Test Accuracy: 98.38%
+Epoch 27 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 28 | Batchsize: 32 | Steps: 938
+Epoch 28 | Train Accuracy: 99.13% | Test Accuracy: 98.42%
+Epoch 28 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 29 | Batchsize: 32 | Steps: 938
+Epoch 29 | Train Accuracy: 99.07% | Test Accuracy: 98.48%
+Epoch 29 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 30 | Batchsize: 32 | Steps: 938
+Epoch 30 | Train Accuracy: 99.05% | Test Accuracy: 98.40%
+Epoch 30 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 31 | Batchsize: 32 | Steps: 938
+Epoch 31 | Train Accuracy: 99.02% | Test Accuracy: 98.38%
+Epoch 31 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 32 | Batchsize: 32 | Steps: 938
+Epoch 32 | Train Accuracy: 99.12% | Test Accuracy: 98.40%
+Epoch 32 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 33 | Batchsize: 32 | Steps: 938
+Epoch 33 | Train Accuracy: 99.12% | Test Accuracy: 98.50%
+Epoch 33 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 34 | Batchsize: 32 | Steps: 938
+Epoch 34 | Train Accuracy: 98.96% | Test Accuracy: 98.42%
+Epoch 34 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 35 | Batchsize: 32 | Steps: 938
+Epoch 35 | Train Accuracy: 99.09% | Test Accuracy: 98.50%
+Epoch 35 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 36 | Batchsize: 32 | Steps: 938
+Epoch 36 | Train Accuracy: 98.93% | Test Accuracy: 98.62%
+Epoch 36 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 37 | Batchsize: 32 | Steps: 938
+Epoch 37 | Train Accuracy: 99.13% | Test Accuracy: 98.80%
+Epoch 37 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 38 | Batchsize: 32 | Steps: 938
+Epoch 38 | Train Accuracy: 98.85% | Test Accuracy: 98.52%
+Epoch 38 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 39 | Batchsize: 32 | Steps: 938
+Epoch 39 | Train Accuracy: 99.04% | Test Accuracy: 98.32%
+Epoch 39 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 40 | Batchsize: 32 | Steps: 938
+Epoch 40 | Train Accuracy: 98.99% | Test Accuracy: 98.38%
+Epoch 40 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 41 | Batchsize: 32 | Steps: 938
+Epoch 41 | Train Accuracy: 99.32% | Test Accuracy: 98.56%
+Epoch 41 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 42 | Batchsize: 32 | Steps: 938
+Epoch 42 | Train Accuracy: 99.42% | Test Accuracy: 99.00%
+Epoch 42 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 43 | Batchsize: 32 | Steps: 938
+Epoch 43 | Train Accuracy: 99.21% | Test Accuracy: 98.58%
+Epoch 43 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 44 | Batchsize: 32 | Steps: 938
+Epoch 44 | Train Accuracy: 98.70% | Test Accuracy: 97.96%
+Epoch 44 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 45 | Batchsize: 32 | Steps: 938
+Epoch 45 | Train Accuracy: 99.01% | Test Accuracy: 98.30%
+Epoch 45 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 46 | Batchsize: 32 | Steps: 938
+Epoch 46 | Train Accuracy: 99.22% | Test Accuracy: 98.54%
+Epoch 46 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 47 | Batchsize: 32 | Steps: 938
+Epoch 47 | Train Accuracy: 99.28% | Test Accuracy: 98.50%
+Epoch 47 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 48 | Batchsize: 32 | Steps: 938
+Epoch 48 | Train Accuracy: 98.75% | Test Accuracy: 98.26%
+Epoch 48 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 49 | Batchsize: 32 | Steps: 938
+Epoch 49 | Train Accuracy: 99.13% | Test Accuracy: 98.22%
+Epoch 49 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 50 | Batchsize: 32 | Steps: 938
+Epoch 50 | Train Accuracy: 99.42% | Test Accuracy: 98.72%
+Epoch 50 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 51 | Batchsize: 32 | Steps: 938
+Epoch 51 | Train Accuracy: 99.45% | Test Accuracy: 98.66%
+Epoch 51 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 52 | Batchsize: 32 | Steps: 938
+[GPU1] Epoch 0 | Batchsize: 32 | Steps: 938
+Epoch 0 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 1 | Batchsize: 32 | Steps: 938
+Epoch 1 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 2 | Batchsize: 32 | Steps: 938
+Epoch 2 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 3 | Batchsize: 32 | Steps: 938
+Epoch 3 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 4 | Batchsize: 32 | Steps: 938
+Epoch 4 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 5 | Batchsize: 32 | Steps: 938
+Epoch 5 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 6 | Batchsize: 32 | Steps: 938
+Epoch 6 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 7 | Batchsize: 32 | Steps: 938
+Epoch 7 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 8 | Batchsize: 32 | Steps: 938
+Epoch 8 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 9 | Batchsize: 32 | Steps: 938
+Epoch 9 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 10 | Batchsize: 32 | Steps: 938
+Epoch 10 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 11 | Batchsize: 32 | Steps: 938
+Epoch 11 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 12 | Batchsize: 32 | Steps: 938
+Epoch 12 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 13 | Batchsize: 32 | Steps: 938
+Epoch 13 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 14 | Batchsize: 32 | Steps: 938
+Epoch 14 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 15 | Batchsize: 32 | Steps: 938
+Epoch 15 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 16 | Batchsize: 32 | Steps: 938
+Epoch 16 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 17 | Batchsize: 32 | Steps: 938
+Epoch 17 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 18 | Batchsize: 32 | Steps: 938
+Epoch 18 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 19 | Batchsize: 32 | Steps: 938
+Epoch 19 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 20 | Batchsize: 32 | Steps: 938
+Epoch 20 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 21 | Batchsize: 32 | Steps: 938
+Epoch 21 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 22 | Batchsize: 32 | Steps: 938
+Epoch 22 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 23 | Batchsize: 32 | Steps: 938
+Epoch 23 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 24 | Batchsize: 32 | Steps: 938
+Epoch 24 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 25 | Batchsize: 32 | Steps: 938
+Epoch 25 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 26 | Batchsize: 32 | Steps: 938
+Epoch 26 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 27 | Batchsize: 32 | Steps: 938
+Epoch 27 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 28 | Batchsize: 32 | Steps: 938
+Epoch 28 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 29 | Batchsize: 32 | Steps: 938
+Epoch 29 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 30 | Batchsize: 32 | Steps: 938
+Epoch 30 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 31 | Batchsize: 32 | Steps: 938
+Epoch 31 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 32 | Batchsize: 32 | Steps: 938
+Epoch 32 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 33 | Batchsize: 32 | Steps: 938
+Epoch 33 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 34 | Batchsize: 32 | Steps: 938
+Epoch 34 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 35 | Batchsize: 32 | Steps: 938
+Epoch 35 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 36 | Batchsize: 32 | Steps: 938
+Epoch 36 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 37 | Batchsize: 32 | Steps: 938
+Epoch 37 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 38 | Batchsize: 32 | Steps: 938
+Epoch 38 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 39 | Batchsize: 32 | Steps: 938
+Epoch 39 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 40 | Batchsize: 32 | Steps: 938
+Epoch 40 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 41 | Batchsize: 32 | Steps: 938
+Epoch 41 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 42 | Batchsize: 32 | Steps: 938
+Epoch 42 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 43 | Batchsize: 32 | Steps: 938
+Epoch 43 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 44 | Batchsize: 32 | Steps: 938
+Epoch 44 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 45 | Batchsize: 32 | Steps: 938
+Epoch 45 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 46 | Batchsize: 32 | Steps: 938
+Epoch 46 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 47 | Batchsize: 32 | Steps: 938
+Epoch 47 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 48 | Batchsize: 32 | Steps: 938
+Epoch 48 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 49 | Batchsize: 32 | Steps: 938
+Epoch 49 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 50 | Batchsize: 32 | Steps: 938
+Epoch 50 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 51 | Batchsize: 32 | Steps: 938
+Epoch 51 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 52 | Batchsize: 32 | Steps: 938
+Epoch 52 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 53 | Batchsize: 32 | Steps: 938
+Epoch 53 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 54 | Batchsize: 32 | Steps: 938
+Epoch 54 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 55 | Batchsize: 32 | Steps: 938
+Epoch 55 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 56 | Batchsize: 32 | Steps: 938
+Epoch 56 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 57 | Batchsize: 32 | Steps: 938
+Epoch 57 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 58 | Batchsize: 32 | Steps: 938
+Epoch 58 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 59 | Batchsize: 32 | Steps: 938
+Epoch 59 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 60 | Batchsize: 32 | Steps: 938
+Epoch 60 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 61 | Batchsize: 32 | Steps: 938
+Epoch 61 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 62 | Batchsize: 32 | Steps: 938
+Epoch 62 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 63 | Batchsize: 32 | Steps: 938
+Epoch 63 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 64 | Batchsize: 32 | Steps: 938
+Epoch 64 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 65 | Batchsize: 32 | Steps: 938
+Epoch 65 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 66 | Batchsize: 32 | Steps: 938
+Epoch 66 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 67 | Batchsize: 32 | Steps: 938
+Epoch 67 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 68 | Batchsize: 32 | Steps: 938
+Epoch 68 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 69 | Batchsize: 32 | Steps: 938
+Epoch 69 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 70 | Batchsize: 32 | Steps: 938
+Epoch 70 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 71 | Batchsize: 32 | Steps: 938
+Epoch 71 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 72 | Batchsize: 32 | Steps: 938
+Epoch 72 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 73 | Batchsize: 32 | Steps: 938
+Epoch 73 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 74 | Batchsize: 32 | Steps: 938
+Epoch 74 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 75 | Batchsize: 32 | Steps: 938
+Epoch 75 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 76 | Batchsize: 32 | Steps: 938
+Epoch 76 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 77 | Batchsize: 32 | Steps: 938
+Epoch 77 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 78 | Batchsize: 32 | Steps: 938
+Epoch 78 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 79 | Batchsize: 32 | Steps: 938
+Epoch 79 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 80 | Batchsize: 32 | Steps: 938
+Epoch 80 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 81 | Batchsize: 32 | Steps: 938
+Epoch 81 | Training checkpoint saved at checkpoint.pt
+[GPU1] Epoch 82 | Batchsize: 32 | Steps: 938
+Epoch 52 | Train Accuracy: 99.15% | Test Accuracy: 98.62%
+Epoch 52 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 53 | Batchsize: 32 | Steps: 938
+Epoch 53 | Train Accuracy: 98.73% | Test Accuracy: 98.00%
+Epoch 53 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 54 | Batchsize: 32 | Steps: 938
+Epoch 54 | Train Accuracy: 99.12% | Test Accuracy: 98.60%
+Epoch 54 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 55 | Batchsize: 32 | Steps: 938
+Epoch 55 | Train Accuracy: 98.69% | Test Accuracy: 98.30%
+Epoch 55 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 56 | Batchsize: 32 | Steps: 938
+Epoch 56 | Train Accuracy: 99.38% | Test Accuracy: 98.66%
+Epoch 56 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 57 | Batchsize: 32 | Steps: 938
+Epoch 57 | Train Accuracy: 98.83% | Test Accuracy: 98.30%
+Epoch 57 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 58 | Batchsize: 32 | Steps: 938
+Epoch 58 | Train Accuracy: 98.96% | Test Accuracy: 98.42%
+Epoch 58 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 59 | Batchsize: 32 | Steps: 938
+Epoch 59 | Train Accuracy: 99.17% | Test Accuracy: 98.44%
+Epoch 59 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 60 | Batchsize: 32 | Steps: 938
+Epoch 60 | Train Accuracy: 99.24% | Test Accuracy: 98.62%
+Epoch 60 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 61 | Batchsize: 32 | Steps: 938
+Epoch 61 | Train Accuracy: 99.30% | Test Accuracy: 98.60%
+Epoch 61 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 62 | Batchsize: 32 | Steps: 938
+Epoch 62 | Train Accuracy: 99.07% | Test Accuracy: 98.52%
+Epoch 62 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 63 | Batchsize: 32 | Steps: 938
+Epoch 63 | Train Accuracy: 99.14% | Test Accuracy: 98.56%
+Epoch 63 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 64 | Batchsize: 32 | Steps: 938
+Epoch 64 | Train Accuracy: 99.06% | Test Accuracy: 98.44%
+Epoch 64 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 65 | Batchsize: 32 | Steps: 938
+Epoch 65 | Train Accuracy: 98.90% | Test Accuracy: 98.40%
+Epoch 65 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 66 | Batchsize: 32 | Steps: 938
+Epoch 66 | Train Accuracy: 99.27% | Test Accuracy: 98.66%
+Epoch 66 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 67 | Batchsize: 32 | Steps: 938
+Epoch 67 | Train Accuracy: 99.35% | Test Accuracy: 98.78%
+Epoch 67 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 68 | Batchsize: 32 | Steps: 938
+Epoch 68 | Train Accuracy: 99.34% | Test Accuracy: 98.86%
+Epoch 68 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 69 | Batchsize: 32 | Steps: 938
+Epoch 69 | Train Accuracy: 98.38% | Test Accuracy: 97.68%
+Epoch 69 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 70 | Batchsize: 32 | Steps: 938
+Epoch 70 | Train Accuracy: 99.25% | Test Accuracy: 98.66%
+Epoch 70 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 71 | Batchsize: 32 | Steps: 938
+Epoch 71 | Train Accuracy: 98.63% | Test Accuracy: 98.16%
+Epoch 71 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 72 | Batchsize: 32 | Steps: 938
+Epoch 72 | Train Accuracy: 99.30% | Test Accuracy: 98.68%
+Epoch 72 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 73 | Batchsize: 32 | Steps: 938
+Epoch 73 | Train Accuracy: 98.99% | Test Accuracy: 98.46%
+Epoch 73 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 74 | Batchsize: 32 | Steps: 938
+Epoch 74 | Train Accuracy: 99.05% | Test Accuracy: 98.32%
+Epoch 74 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 75 | Batchsize: 32 | Steps: 938
+Epoch 75 | Train Accuracy: 99.24% | Test Accuracy: 98.52%
+Epoch 75 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 76 | Batchsize: 32 | Steps: 938
+Epoch 76 | Train Accuracy: 98.92% | Test Accuracy: 98.26%
+Epoch 76 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 77 | Batchsize: 32 | Steps: 938
+Epoch 77 | Train Accuracy: 99.24% | Test Accuracy: 98.44%
+Epoch 77 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 78 | Batchsize: 32 | Steps: 938
+Epoch 78 | Train Accuracy: 98.77% | Test Accuracy: 98.16%
+Epoch 78 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 79 | Batchsize: 32 | Steps: 938
+Epoch 79 | Train Accuracy: 99.28% | Test Accuracy: 98.52%
+Epoch 79 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 80 | Batchsize: 32 | Steps: 938
+Epoch 80 | Train Accuracy: 99.46% | Test Accuracy: 98.66%
+Epoch 80 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 81 | Batchsize: 32 | Steps: 938
+Epoch 81 | Train Accuracy: 99.28% | Test Accuracy: 98.60%
+Epoch 81 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 82 | Batchsize: 32 | Steps: 938
+Epoch 82 | Train Accuracy: 99.17% | Test Accuracy: 98.64%
+Epoch 82 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 83 | Batchsize: 32 | Steps: 938
+Epoch 83 | Train Accuracy: 99.33% | Test Accuracy: 98.58%
+Epoch 83 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 84 | Batchsize: 32 | Steps: 938
+Epoch 84 | Train Accuracy: 99.36% | Test Accuracy: 98.44%
+Epoch 84 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 85 | Batchsize: 32 | Steps: 938
+Epoch 85 | Train Accuracy: 99.06% | Test Accuracy: 98.12%
+Epoch 85 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 86 | Batchsize: 32 | Steps: 938
+Epoch 86 | Train Accuracy: 99.04% | Test Accuracy: 98.06%
+Epoch 86 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 87 | Batchsize: 32 | Steps: 938
+Epoch 87 | Train Accuracy: 99.39% | Test Accuracy: 98.66%
+Epoch 87 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 88 | Batchsize: 32 | Steps: 938
+Epoch 88 | Train Accuracy: 99.46% | Test Accuracy: 98.60%
+Epoch 88 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 89 | Batchsize: 32 | Steps: 938
+Epoch 89 | Train Accuracy: 98.82% | Test Accuracy: 98.52%
+Epoch 89 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 90 | Batchsize: 32 | Steps: 938
+Epoch 90 | Train Accuracy: 98.97% | Test Accuracy: 98.46%
+Epoch 90 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 91 | Batchsize: 32 | Steps: 938
+Epoch 91 | Train Accuracy: 99.00% | Test Accuracy: 98.06%
+Epoch 91 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 92 | Batchsize: 32 | Steps: 938
+Epoch 92 | Train Accuracy: 99.14% | Test Accuracy: 98.48%
+Epoch 92 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 93 | Batchsize: 32 | Steps: 938
+Epoch 93 | Train Accuracy: 98.95% | Test Accuracy: 98.10%
+Epoch 93 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 94 | Batchsize: 32 | Steps: 938
+Epoch 94 | Train Accuracy: 99.11% | Test Accuracy: 98.44%
+Epoch 94 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 95 | Batchsize: 32 | Steps: 938
+Epoch 95 | Train Accuracy: 99.08% | Test Accuracy: 98.08%
+Epoch 95 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 96 | Batchsize: 32 | Steps: 938
+Epoch 96 | Train Accuracy: 99.26% | Test Accuracy: 98.60%
+Epoch 96 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 97 | Batchsize: 32 | Steps: 938
+Epoch 97 | Train Accuracy: 98.86% | Test Accuracy: 97.88%
+Epoch 97 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 98 | Batchsize: 32 | Steps: 938
+Epoch 98 | Train Accuracy: 99.20% | Test Accuracy: 98.88%
+Epoch 98 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 99 | Batchsize: 32 | Steps: 938
+Epoch 99 | Train Accuracy: 99.35% | Test Accuracy: 98.60%
+Epoch 99 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 100 | Batchsize: 32 | Steps: 938
+Epoch 100 | Train Accuracy: 99.31% | Test Accuracy: 98.82%
+Epoch 100 | Training checkpoint saved at checkpoint.pt
